@@ -1,0 +1,16 @@
+@media (orientation: portrait){
+    img{
+        margin: 10px 100%;
+    }
+    
+}
+
+@media (orientation: landscape){
+    img{
+        width: 200px;
+        display: inline-block;
+    }
+}
+body{
+    background-color: rgb(136, 180, 182);
+}
